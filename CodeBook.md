@@ -52,3 +52,4 @@ The run_analysis.R script performs the following:
 2) Apply proper activity labels and update variable names to be tidy and descriptive.
 3) Extract mean and standard deviation data for each measurement.
 4) Create new data set that provides the average for each variable for each activity for each subject.
+5) Write data set a text file.
